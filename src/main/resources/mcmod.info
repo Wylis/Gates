@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gates",
+  "name": "Wylis Gates",
+  "description": "A Mod which serves some doors and gates.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Wylis"],
+  "credits": "Wylis",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
